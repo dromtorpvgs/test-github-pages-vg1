@@ -1,0 +1,42 @@
+/* Dette er en kommentar i CSS */
+
+/* Endre bakgrunnsfarge eller bytte til GIF som bakgrunn */
+
+body {
+  /*background-color: lightblue;*/
+   background-image: url(https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif)
+  }
+
+
+p {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    font-family: fantasy;
+    font-weight: bold;
+}
+
+
+h1, h2 {
+    color: white;
+    font-size: 5em;
+    text-align: center;
+}
+
+img {
+  width: 50%;
+  opacity: 0.8;
+}
+
+a {
+  color: white;
+}
+
+ul li {
+    background: #cce5ff;
+    color: darkblue;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    font-size: 20px;
+  }
